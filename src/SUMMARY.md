@@ -1,6 +1,6 @@
 # Summary
 
-[Free Citizens of LYON County](Manifesto.md)
+[STORE](Manifesto.md)
 
 - [Develop Locally, Deploy To The Cloud](./chapter_5.md)
     - [Section 1: Foundations of Local Development for ML/AI](nested/sub-chapter_5.1.md)
